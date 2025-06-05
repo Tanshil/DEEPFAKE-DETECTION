@@ -1,7 +1,7 @@
 
 # Deepfake Detector
 
-### Project by TANSHIL TIGRAN  and AKSHAT TIWARI
+### Project by TANSHIL TIGRAN  
 
 This project aims to create a basic deepfake detector using Convolutional Neural Networks (CNNs). The model is designed to classify images as either real or deepfake. While the model is simple and serves as a starting point, the accuracy is limited due to the small dataset used for training and the low number of epochs.
 
